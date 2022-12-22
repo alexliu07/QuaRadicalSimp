@@ -1,5 +1,5 @@
-# 二次根式化简工具
- 一个化简二次根式的程序
+# 二次根式化简工具<br>Quadratic Radical Simplification Tool
+ 一个化简二次根式的程序<br>A Program to Simplify Quadratic Radicals
 ### 用法 Usage
 ***
 编译main.cpp并运行<br>Compile main.cpp and run
