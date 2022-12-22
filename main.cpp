@@ -28,6 +28,8 @@ int main() {
     ans = simp(n);
     if (ans * ans == n) {
         cout << ans;
+    } else if (ans == 1) {
+        cout << "sqrt(" << n << ")";
     } else {
         cout << ans << " sqrt(" << (n / ans / ans) << ")";
     }
