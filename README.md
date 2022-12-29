@@ -7,9 +7,9 @@ A Program to Simplify Radicals
 ### 用法 Usage
 
 ***
-编译main.cpp并运行
+编译 RadicalSimplification.cpp 或 RadicalSimplification.java 并运行
 
-Compile main.cpp and run
+Compile RadicalSimplification.cpp or RadicalSimplification.java and run
 
 #### 输入 Input
 
