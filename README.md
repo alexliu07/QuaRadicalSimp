@@ -4,9 +4,9 @@
 
 A Program to Simplify Radicals
 
-## 重要提示
-
 ------
+
+## 重要提示
 
 后续开发迁移至<a href="https://github.com/alexliu07/Mathbox">Mathbox</a>
 
