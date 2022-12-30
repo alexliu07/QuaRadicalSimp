@@ -4,6 +4,16 @@
 
 A Program to Simplify Radicals
 
+## 重要提示
+
+------
+
+后续开发迁移至<a href="https://github.com/alexliu07/Mathbox">Mathbox</a>
+
+本Repository不再更新
+
+------
+
 ### 用法 Usage
 
 ***
@@ -34,3 +44,4 @@ the radical, and the number in the brackets is the number in the radical after s
 ex. 30√3
 
 `>30 sqrt2(3)`
+
